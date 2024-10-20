@@ -27,3 +27,15 @@ Uprawnienia administratora do uzyskania pełnych informacji o systemie
 
 ## Licencja
 Projekt dostępny na licencji MIT.
+
+## Współpraca
+Współpraca mile widziana! Jeśli chcesz wnieść swoje poprawki lub ulepszenia, wykonaj następujące kroki:
+
+* Sforkuj repozytorium.
+* Stwórz nową gałąź dla swojego rozwiązania.
+* Złóż pull request, abyśmy mogli przejrzeć zmiany.
+
+## Kontakt
+W razie pytań lub sugestii, proszę o kontakt:
+
+Dominik Kowalczyk: dominik99d14@gmail.com
