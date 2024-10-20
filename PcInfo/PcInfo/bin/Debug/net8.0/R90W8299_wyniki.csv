@@ -1,0 +1,298 @@
+Informacje o sprzęcie:
+----------------------
+Producent komputera;LENOVO
+Model komputera;20NQS3681P
+Numer seryjny komputera;R90W8299
+Numer produktu komputera;20NQS3681P
+Wersja;ThinkPad X390 Yoga
+
+
+Informacje o systemie:
+----------------------
+Platforma: Win32NT
+Wersja: 10.0.22621.0
+Wersja przyjazna: Microsoft Windows 11 Pro
+
+
+Podzespoły:
+---------------------
+Procesor
+Nazwa;Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz
+Identyfikator;BFEBFBFF000806EC
+Opis;Intel64 Family 6 Model 142 Stepping 12
+
+Pamięć: 0
+Producent;Samsung
+Numer produktu;M471A1K43BB1-CTD    
+Pojemność;8 GB
+Szybkość;2667 MHz
+
+Pamięć: 1
+Producent;Samsung
+Numer produktu;M471A1K43BB1-CTD    
+Pojemność;8 GB
+Szybkość;2667 MHz
+
+Suma pamięć RAM; 16
+
+Dysk
+Model;KXG6AZNV512G TOSHIBA
+Interfejs;SCSI
+Pojemność;476 GB
+
+
+Drukarki
+----------------------------------
+Nazwa;Port
+Microsoft Print to PDF;PORTPROMPT:
+HP Smart Tank 510 series [275AAA];WSD-a655bbcf-cc06-4be6-8211-8d2333cdda1f
+Generic / Text Only;192.168.2.2
+
+Dyski sieciowe i ich lokalizacje:
+---------------------------------
+Nazwa;Ścieżka zdalna
+
+
+Karty sieciowe i ich adresy MAC:
+----------------------------------
+Nazwa;Adres MAC
+Ethernet;482AE35FACA5
+Połączenie lokalne* 1;04ED33D1C474
+Połączenie lokalne* 2;06ED33D1C473
+Wi-Fi;04ED33D1C473
+Połączenie sieciowe Bluetooth;04ED33D1C477
+
+Ostatnie logowania użytkowników:
+---------------------
+Użytkownik: ZARZĄDZANIE NT\SYSTEM, Ostatnie logowanie: 01.01.0001 00:00:00
+Użytkownik: R90W8299\Administrator, Ostatnie logowanie: 20.10.2024 20:00:50
+
+Lista programow:
+----------------------------------
+Nazwa;Wersja;Producent
+7-Zip 23.00 (x64);23.00;Igor Pavlov
+Pakiet sterowników systemu Windows - Ross-Tech USB Driver Package (05/12/2014 2.10.00);05/12/2014 2.10.00;Ross-Tech
+FreeCAD 0.21.2;0.21.2;FreeCAD Team
+GIMP 2.10.34;2.10.34;The GIMP Team
+Git;2.43.0;The Git Development Community
+Microsoft Azure Compute Emulator - v2.9.7;2.9.8999.43;Microsoft Corporation
+Microsoft SQL Server 2019 (64-bit);Brak informacji;Brak informacji
+Microsoft SQL Server 2019 (64-bit);Brak informacji;Microsoft Corporation
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64);10.0.60910;Microsoft Corporation
+Unity Hub 3.7.0;3.7.0;Unity Technologies Inc.
+Microsoft.Maui.Controls.Core (x64);8.0.3.0;Microsoft Corporation
+Microsoft.Maui.Resizetizer (x64);8.0.3.0;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64);8.0.1.0;Microsoft Corporation
+Microsoft ASP.NET Core 8.0.1 Targeting Pack (x64);8.0.1.23580;Microsoft Corporation
+Microsoft Azure Compute Emulator - v2.9.7;2.9.8999.43;Microsoft Corporation
+Microsoft.Android.Runtime.34.android-x86 (x64);34.0.43.0;Microsoft Corporation
+IIS Express Application Compatibility Database for x64;Brak informacji;Brak informacji
+Microsoft.Android.Runtime.34.android-x64 (x64);34.0.43.0;Microsoft Corporation
+Microsoft ASP.NET Core 8.0.1 Shared Framework (x64);8.0.1.23580;Microsoft Corporation
+Microsoft .NET Targeting Pack - 6.0.26 (x64);48.104.7000;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.ios-arm64 (x64);8.0.1.0;Microsoft Corporation
+Microsoft.Maui.Controls.Xaml (x64);8.0.3.0;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-x64 (x64);8.0.1.0;Microsoft Corporation
+HP SFTP Plugin;56.0.480.0;HP Inc.
+SQL Server 2019 Common Files;15.0.2000.5;Microsoft Corporation
+Microsoft.NET.Sdk.Maui.Manifest-8.0.100 (x64);8.0.3;Microsoft Corporation
+Microsoft.MacCatalyst.Templates (x64);17.2.8004.0;Microsoft Corporation
+Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64);7.0.15.0;Microsoft Corporation
+Microsoft.Maui.Controls.Build.Tasks (x64);8.0.3.0;Microsoft Corporation
+Microsoft.iOS.Sdk (x64);16.4.7129.0;Microsoft Corporation
+Microsoft .NET Runtime - 8.0.1 (x64);64.4.5793;Microsoft Corporation
+Microsoft SQL Server 2019 Setup (English);15.0.4013.40;Microsoft Corporation
+Microsoft .NET AppHost Pack - 6.0.26 (x64_arm64);48.104.7000;Microsoft Corporation
+Microsoft.NET.Sdk.iOS.Manifest-8.0.100 (x64);17.2.8004;Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.38.33135;14.38.33135;Microsoft Corporation
+Microsoft .NET Runtime - 6.0.26 (x64);48.104.7000;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64);7.0.15.0;Microsoft Corporation
+Python 3.11.4 Development Libraries (64-bit);3.11.4150.0;Python Software Foundation
+Microsoft Windows Desktop Runtime - 6.0.26 (x64);48.104.6996;Microsoft Corporation
+Microsoft Windows Desktop Targeting Pack - 7.0.15 (x64);56.60.5778;Microsoft Corporation
+.NET MAUI Templates (x64);8.0.3.0;Microsoft Corporation
+Microsoft.iOS.Runtime.iossimulator-arm64 (x64);17.2.8004.0;Microsoft Corporation
+SQL Server 2019 XEvent;15.0.2000.5;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64);7.0.15.0;Microsoft Corporation
+Intel® PROSet/Wireless WiFi Software;20.110.0.2602;Intel Corporation
+Microsoft .NET Targeting Pack - 7.0.15 (x64);56.60.5674;Microsoft Corporation
+Intel® Hardware Accelerated Execution Manager;6.2.0;Intel Corporation
+Microsoft .NET Targeting Pack - 8.0.1 (x64);64.4.5793;Microsoft Corporation
+SQL Server 2019 XEvent;15.0.2000.5;Microsoft Corporation
+Microsoft .NET SDK 8.0.101 (x64) from Visual Studio;8.1.123.58017;Microsoft Corporation
+Microsoft .NET AppHost Pack - 8.0.1 (x64_arm64);64.4.5793;Microsoft Corporation
+Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64);8.0.1.0;Microsoft Corporation
+SQL Server 2019 SQL Diagnostics;15.0.2000.5;Microsoft Corporation
+Microsoft VSS Writer for SQL Server 2019;15.0.2000.5;Microsoft Corporation
+Application Verifier x64 External Package;10.1.22000.832;Microsoft
+Microsoft.NET.Sdk.tvOS.Manifest-8.0.100 (x64);17.2.8004;Microsoft Corporation
+.NET Android Templates (x64);34.0.43.0;Microsoft Corporation
+Microsoft SQL Server 2019 T-SQL Language Service ;15.0.2000.5;Microsoft Corporation
+Microsoft Windows Desktop Targeting Pack - 8.0.1 (x64);64.4.5797;Microsoft Corporation
+Microsoft .NET 8.0 Templates 8.0.101 (x64);32.6.64801;Microsoft Corporation
+.NET MAUI SDK (x64);8.0.3.0;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64 (x64);8.0.1.0;Microsoft Corporation
+Microsoft SQL Server 2019 LocalDB ;15.0.4153.1;Microsoft Corporation
+Microsoft .NET AppHost Pack - 6.0.26 (x64_x86);48.104.7000;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-arm (x64);8.0.1.0;Microsoft Corporation
+Microsoft.Maui.Graphics (x64);8.0.3.0;Microsoft Corporation
+Microsoft .NET AppHost Pack - 6.0.26 (x64);48.104.7000;Microsoft Corporation
+Microsoft Azure PowerShell - April 2018;5.7.0.18831;Microsoft Corporation
+Microsoft Azure Libraries for .NET – v2.9;3.0.2310.23;Microsoft Corporation
+vs_devenx64vmsi;17.8.34129;Microsoft Corporation
+Microsoft.MacCatalyst.Sdk (x64);17.2.8004.0;Microsoft Corporation
+Microsoft.NET.Workload.Emscripten.net6.Manifest (x64);64.4.5649;Microsoft Corporation
+Blender;4.2.3;Blender Foundation
+Microsoft.Maui.Controls.Compatibility (x64);8.0.3.0;Microsoft Corporation
+Microsoft Command Line Utilities 15 for SQL Server;15.0.1300.359;Microsoft Corporation
+Microsoft.iOS.Sdk (x64);17.2.8004.0;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64);8.0.1.0;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64);8.0.1.0;Microsoft Corporation
+HP Scan — podstawowe oprogramowanie urządzenia;63.4.6169.24240;HP Inc.
+Microsoft Windows Desktop Targeting Pack - 6.0.26 (x64);48.104.6996;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64);7.0.15.0;Microsoft Corporation
+Python 3.11.4 Test Suite (64-bit);3.11.4150.0;Python Software Foundation
+Universal CRT Tools x64;10.1.22621.2428;Microsoft Corporation
+.NET MAUI Templates (x64);7.0.101.0;Microsoft Corporation
+Microsoft ODBC Driver 17 for SQL Server;17.10.5.1;Microsoft Corporation
+Microsoft.NET.Runtime.MonoTargets.Sdk (x64);8.0.1.0;Microsoft Corporation
+Microsoft SQL Server 2019 RsFx Driver;15.0.2000.5;Microsoft Corporation
+Application Verifier x64 External Package (DesktopEditions);10.1.22621.2428;Microsoft
+Microsoft .NET AppHost Pack - 6.0.26 (x64_arm);48.104.7000;Microsoft Corporation
+Microsoft System CLR Types for SQL Server 2019;15.0.2000.5;Microsoft Corporation
+SQL Server 2019 Common Files;15.0.2000.5;Microsoft Corporation
+vs_minshellinteropx64msi;17.8.34129;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64 (x64);7.0.15.0;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-arm64 (x64);7.0.15.0;Microsoft Corporation
+SQL Server 2019 Database Engine Shared;15.0.2000.5;Microsoft Corporation
+Microsoft .NET AppHost Pack - 7.0.15 (x64_x86);56.60.5674;Microsoft Corporation
+SQL Server 2019 Shared Management Objects;15.0.2000.5;Microsoft Corporation
+Microsoft.AspNetCore.Components.WebView.Maui (x64);8.0.3.0;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64);7.0.15.0;Microsoft Corporation
+Windows App Certification Kit Native Components;10.1.22621.2428;Microsoft Corporation
+Azure Data Studio;1.44.0;Microsoft Corporation
+Microsoft .NET AppHost Pack - 8.0.1 (x64_x86);64.4.5793;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-arm (x64);7.0.15.0;Microsoft Corporation
+Workflow Manager Client 1.0;2.1.10525.2;Microsoft Corporation
+Microsoft.NET.Workload.Emscripten.Current.Manifest (x64);64.4.5649;Microsoft Corporation
+Microsoft.Android.Runtime.34.android-arm (x64);34.0.43.0;Microsoft Corporation
+Microsoft Visual Studio Installer;3.11.2180.21897;Microsoft Corporation
+Microsoft .NET AppHost Pack - 7.0.15 (x64_arm);56.60.5674;Microsoft Corporation
+Microsoft Windows Desktop Runtime - 7.0.15 (x64);56.60.5778;Microsoft Corporation
+Microsoft ASP.NET Core 6.0.26 Targeting Pack (x64);6.0.26.23605;Microsoft Corporation
+Microsoft.iOS.Templates (x64);17.2.8004.0;Microsoft Corporation
+Microsoft .NET AppHost Pack - 7.0.15 (x64_arm64);56.60.5674;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64);8.0.1.0;Microsoft Corporation
+Microsoft.iOS.Windows.Sdk (x64);16.4.7129.0;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64);7.0.15.0;Microsoft Corporation
+Microsoft Analysis Services OLE DB Provider;16.0.5143.0;Microsoft Corporation
+Python 3.11.4 Standard Library (64-bit);3.11.4150.0;Python Software Foundation
+SQL Server 2019 DMF;15.0.2000.5;Microsoft Corporation
+Microsoft Workflow Debugger v1.0 for amd64;17.0.34205;Microsoft
+Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64);8.0.1.0;Microsoft Corporation
+Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64);64.4.5765;Microsoft Corporation
+Microsoft.MacCatalyst.Runtime.maccatalyst-x64 (x64);17.2.8004.0;Microsoft Corporation
+Microsoft SQL Server 2005 Backward compatibility;8.05.2309;Microsoft Corporation
+Microsoft.Android.Runtime.34.android-arm64 (x64);34.0.43.0;Microsoft Corporation
+SQL Server 2019 Shared Management Objects Extensions;15.0.2000.5;Microsoft Corporation
+Microsoft Visual Studio Tools for Applications 2019 x64 Hosting Support;16.0.31110;Microsoft Corporation
+Microsoft .NET AppHost Pack - 8.0.1 (x64);64.4.5793;Microsoft Corporation
+Microsoft Azure Authoring Tools - v2.9.7;2.9.8999.45;Microsoft Corporation
+Python 3.11.4 Utility Scripts (64-bit);3.11.4150.0;Python Software Foundation
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005;12.0.21005;Microsoft Corporation
+Microsoft.iOS.Runtime.iossimulator-x64 (x64);17.2.8004.0;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64);7.0.15.0;Microsoft Corporation
+SQL Server 2019 Connection Info;15.0.2000.5;Microsoft Corporation
+Microsoft.Maui.Essentials (x64);8.0.3.0;Microsoft Corporation
+Microsoft .NET Host FX Resolver - 8.0.1 (x64);64.4.5793;Microsoft Corporation
+Microsoft .NET Toolset 8.0.101 (x64);32.6.64801;Microsoft Corporation
+Microsoft SQL Server 2012 Native Client ;11.4.7462.6;Microsoft Corporation
+vs_communityx64msi;17.8.34205;Microsoft Corporation
+Microsoft.Android.Sdk.Windows (x64);34.0.43.0;Microsoft Corporation
+HP EmailSMTP Plugin;56.0.480.0;HP
+Python 3.11.4 Tcl/Tk Support (64-bit);3.11.4150.0;Python Software Foundation
+Microsoft Windows Desktop Runtime - 8.0.1 (x64);64.4.5797;Microsoft Corporation
+Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64);6.0.26.0;Microsoft Corporation
+SQL Server 2019 Database Engine Services;15.0.2000.5;Microsoft Corporation
+Microsoft .NET Standard Targeting Pack - 2.1.0 (x64);24.0.28113;Microsoft Corporation
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005;12.0.21005;Microsoft Corporation
+SQL Server 2019 Shared Management Objects;15.0.2000.5;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.ios-arm64 (x64);7.0.15.0;Microsoft Corporation
+Microsoft.Android.Ref.34 (x64);34.0.43.0;Microsoft Corporation
+Microsoft.NET.Runtime.MonoTargets.Sdk (x64);6.0.26.0;Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.38.33135;14.38.33135;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.ios-arm (x64);7.0.15.0;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64 (x64);8.0.1.0;Microsoft Corporation
+Microsoft ASP.NET Core 7.0.15 Shared Framework (x64);7.0.15.23601;Microsoft Corporation
+Adobe Acrobat (64-bit);24.002.20857;Adobe
+Microsoft.Maui.Resizetizer.Sdk (x64);7.0.101.0;Microsoft Corporation
+IIS Express Application Compatibility Database for x86;Brak informacji;Brak informacji
+Microsoft SQL Server 2008 R2 Command Line Utilities;10.53.6000.34;Microsoft Corporation
+Microsoft Visual C++ 2022 X64 Debug Runtime - 14.38.33135;14.38.33135;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.android-x64 (x64);7.0.15.0;Microsoft Corporation
+Microsoft.iOS.Ref (x64);17.2.8004.0;Microsoft Corporation
+Microsoft.Maui.Core (x64);8.0.3.0;Microsoft Corporation
+Microsoft .NET AppHost Pack - 7.0.15 (x64);56.60.5674;Microsoft Corporation
+Inkscape;1.2.2;Inkscape
+Microsoft.NETCore.App.Runtime.Mono.android-arm64 (x64);8.0.1.0;Microsoft Corporation
+Microsoft.NET.Sdk.Android.Manifest-8.0.100 (x64);34.0.43;Microsoft Corporation
+Microsoft ASP.NET Core 7.0.15 Targeting Pack (x64);7.0.15.23601;Microsoft Corporation
+Microsoft.NET.Workload.Emscripten.net7.Manifest (x64);64.4.5649;Microsoft Corporation
+LibreOffice 7.5.4.2;7.5.4.2;The Document Foundation
+Microsoft.Android.Sdk.Windows (x64);33.0.95.0;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64);8.0.1.0;Microsoft Corporation
+Microsoft .NET 7.0 Templates 8.0.101 (x64);28.7.64801;Microsoft Corporation
+Microsoft ASP.NET Core Module V2 for IIS Express;18.0.23305.0;Microsoft Corporation
+Microsoft.MacCatalyst.Ref (x64);17.2.8004.0;Microsoft Corporation
+Microsoft.NET.Sdk.MacCatalyst.Manifest-8.0.100 (x64);17.2.8004;Microsoft Corporation
+Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64);64.4.5765;Microsoft Corporation
+VS JIT Debugger;17.0.125.0;Microsoft Corporation
+Microsoft.Maui.Sdk (x64);7.0.101.0;Microsoft Corporation
+Microsoft.Maui.Controls (x64);8.0.3.0;Microsoft Corporation
+Microsoft .NET Runtime - 7.0.15 (x64);56.60.5674;Microsoft Corporation
+Microsoft Update Health Tools;5.72.0.0;Microsoft Corporation
+SQL Server 2019 Shared Management Objects Extensions;15.0.2000.5;Microsoft Corporation
+vs_minshellx64msi;17.8.34205;Microsoft Corporation
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64);10.0.60915;Microsoft Corporation
+Microsoft .NET 6.0 Templates 8.0.101 (x64);24.6.64801;Microsoft Corporation
+Microsoft Web Deploy 4.0;10.0.7421;Microsoft Corporation
+Microsoft OLE DB Driver for SQL Server;18.6.5.0;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-x86 (x64);7.0.15.0;Microsoft Corporation
+Microsoft .NET Host - 8.0.1 (x64);64.4.5793;Microsoft Corporation
+icecap_collection_x64;17.8.34205;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64);8.0.1.0;Microsoft Corporation
+Windows SDK DirectX x64 Remote;10.1.22621.2428;Microsoft Corporation
+VS WCF Debugging;17.0.125.0;Microsoft Corporation
+Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64);64.4.5765;Microsoft Corporation
+SQL Server 2019 Batch Parser;15.0.2000.5;Microsoft Corporation
+VS Script Debugging Common;17.0.125.0;Microsoft Corporation
+Microsoft.MacCatalyst.Runtime.maccatalyst-arm64 (x64);17.2.8004.0;Microsoft Corporation
+IIS 10.0 Express;10.0.08412;Microsoft Corporation
+Microsoft.NET.Sdk.macOS.Manifest-8.0.100 (x64);14.2.8004;Microsoft Corporation
+HP SharePoint Plugin;56.0.480.0;HP
+Python 3.11.4 pip Bootstrap (64-bit);3.11.4150.0;Python Software Foundation
+Python 3.11.4 Executables (64-bit);3.11.4150.0;Python Software Foundation
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.30319;10.0.30319;Microsoft Corporation
+Microsoft.iOS.Runtime.ios-arm64 (x64);17.2.8004.0;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64);7.0.15.0;Microsoft Corporation
+SQL Server 2019 Database Engine Shared;15.0.2000.5;Microsoft Corporation
+Microsoft.Maui.Graphics.Win2D.WinUI.Desktop (x64);8.0.3.0;Microsoft Corporation
+SQL Server 2019 Database Engine Services;15.0.2000.5;Microsoft Corporation
+Microsoft SQL Server 2008 R2 Native Client;10.53.6000.34;Microsoft Corporation
+vs_Graphics_Singletonx64;17.8.34205;Microsoft Corporation
+Microsoft.NET.Runtime.MonoTargets.Sdk (x64);7.0.15.0;Microsoft Corporation
+Microsoft ASP.NET Core 6.0.26 Shared Framework (x64);6.0.26.23605;Microsoft Corporation
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64 (x64);7.0.15.0;Microsoft Corporation
+Workflow Manager Tools 1.0 for Visual Studio;17.7.40616.8;Microsoft Corporation
+Microsoft Build of OpenJDK with Hotspot 11.0.16.1+1 (x64);11.0.16.101;Microsoft
+Application Verifier x64 External Package (OnecoreUAP);10.1.22621.2428;Microsoft
+Microsoft.MacCatalyst.Sdk (x64);16.4.7129.0;Microsoft Corporation
+IntelliTraceProfilerProxy;15.0.21225.01;Microsoft Corporation
+Python 3.11.4 Documentation (64-bit);3.11.4150.0;Python Software Foundation
+Microsoft ASP.NET Core Module for IIS Express;12.2.18292.0;Microsoft Corporation
+SQL Server 2019 DMF;15.0.2000.5;Microsoft Corporation
+Microsoft.iOS.Windows.Sdk (x64);17.2.8004.0;Microsoft Corporation
+SQL Server 2019 Connection Info;15.0.2000.5;Microsoft Corporation
+DiagnosticsHub_CollectionService;17.3.32601;Microsoft Corporation
+Python 3.11.4 Core Interpreter (64-bit);3.11.4150.0;Python Software Foundation
+Microsoft Workflow Diagnostic Pack for x64;17.8.34129;Microsoft
